@@ -67,13 +67,8 @@
       <file leaf-file-name="Main.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/it/pupok/task2/main/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="9" selection-start="1588" selection-end="1588" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="825">
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#Main#0;class#Main#0" expanded="false" />
-                <element signature="e#742#751#0" expanded="true" />
-                <element signature="e#825#833#0" expanded="true" />
-              </folding>
+            <state line="17" column="0" selection-start="385" selection-end="385" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="855">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -81,21 +76,8 @@
       <file leaf-file-name="InverterOfArrays.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/it/pupok/task2/inverterOfArrays/InverterOfArrays.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="39" selection-start="415" selection-end="415" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="555">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IInterfaceForInverter.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/it/pupok/task2/interfaceForInverter/IInterfaceForInverter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="7" selection-start="429" selection-end="429" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="16" column="44" selection-start="460" selection-end="460" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="555">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -103,29 +85,27 @@
       <file leaf-file-name="EntityTheArray.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/it/pupok/task2/entityTheArray/EntityTheArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="7" selection-start="653" selection-end="653" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="600">
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#550#551#0" expanded="true" />
-                <element signature="e#592#593#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IInterfaceForEntity.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/it/pupok/task2/interfaceForEntity/IInterfaceForEntity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="0" selection-start="325" selection-end="325" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
+            <state line="32" column="19" selection-start="718" selection-end="729" vertical-scroll-proportion="0.0" vertical-offset="480" max-vertical-offset="600">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyFirstException.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/it/pupok/task2/my_exception/MyFirstException.java">
+      <file leaf-file-name="EntityTheArrayTest.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/EntityTheArrayTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="1" selection-start="278" selection-end="278" vertical-scroll-proportion="0.42424244" vertical-offset="0" max-vertical-offset="495">
+            <state line="25" column="35" selection-start="558" selection-end="558" vertical-scroll-proportion="0.5108992" vertical-offset="0" max-vertical-offset="734">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InverterOfArraysTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/InverterOfArraysTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="0" selection-start="406" selection-end="406" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="675">
               <folding />
             </state>
           </provider>
@@ -141,7 +121,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/it/pupok/task2/my_interface/IInterfaceForInverter.java" />
         <option value="$PROJECT_DIR$/src/main/java/it/pupok/task2/my_interface/ClassForInterface.java" />
         <option value="$PROJECT_DIR$/src/main/java/it/pupok/task2/my_exception/MyFirstExcepton.java" />
@@ -161,8 +140,14 @@
         <option value="$PROJECT_DIR$/src/main/java/it/pupok/task2/interfaceForInverter/package-info.java" />
         <option value="$PROJECT_DIR$/src/main/java/it/pupok/task2/interfaceForInverter/IInterfaceForInverter.java" />
         <option value="$PROJECT_DIR$/src/main/java/it/pupok/task2/interfaceForEntity/IInterfaceForEntity.java" />
+        <option value="$PROJECT_DIR$/MyFirstMavenProject.iml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/it/pupok/task2/entityTheArray/EntityTheArray.java" />
+        <option value="$PROJECT_DIR$/src/test/java/EntityOfArrayTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/MainTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/it/pupok/task2/main/Main.java" />
+        <option value="$PROJECT_DIR$/src/test/java/InverterOfArraysTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/EntityTheArrayTest.java" />
       </list>
     </option>
   </component>
@@ -174,8 +159,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="65" />
     <option name="y" value="24" />
-    <option name="width" value="1600" />
+    <option name="width" value="1535" />
     <option name="height" value="876" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -223,8 +209,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -258,6 +242,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -509,6 +497,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -537,12 +527,79 @@
     <key name="CreateClassDialog.RecentsKey">
       <recent name="it.pupok.task2.inverterOfArrays" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="JUnit.All in MyFirstMavenProject">
+    <configuration default="false" name="EntityTheArrayTest.testSetArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyFirstMavenProject" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="EntityTheArrayTest" />
+      <option name="METHOD_NAME" value="testSetArray" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="All in MyFirstMavenProject" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyFirstMavenProject" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin" singleton="true">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <method />
     </configuration>
     <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
@@ -567,45 +624,12 @@
       </MavenSettings>
       <method />
     </configuration>
-    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
-      <module name="" />
-      <option name="TESTING_TYPE" value="0" />
-      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="USE_COMMAND_LINE" value="true" />
-      <option name="COMMAND_LINE" value="" />
-      <option name="WIPE_USER_DATA" value="false" />
-      <option name="DISABLE_BOOT_ANIMATION" value="false" />
-      <option name="NETWORK_SPEED" value="full" />
-      <option name="NETWORK_LATENCY" value="none" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
-      <method />
-    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -633,6 +657,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -689,7 +726,7 @@
       <method />
     </configuration>
     <configuration default="false" name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="it.pupok.task2.main.Main" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -738,10 +775,18 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <list size="2">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Application.Main" />
       <item index="1" class="java.lang.String" itemvalue="Maven.Create JAR with dependencies" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.EntityTheArrayTest.testSetArray" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.All in MyFirstMavenProject" />
     </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.All in MyFirstMavenProject" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.EntityTheArrayTest.testSetArray" />
+      </list>
+    </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
       <Port>5050</Port>
@@ -774,33 +819,33 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="24" width="1600" height="876" extended-state="6" />
-    <editor active="true" />
+    <frame x="65" y="24" width="1535" height="876" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32938075" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3503055" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3992095" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32674572" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24967907" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16302952" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20629604" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31225297" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32806325" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32674572" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -824,35 +869,117 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/EntityTheArrayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="35" selection-start="558" selection-end="558" vertical-scroll-proportion="0.0" vertical-offset="375" max-vertical-offset="630">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/InverterOfArraysTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="406" selection-end="406" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="675">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/it/pupok/task2/inverterOfArrays/InverterOfArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="39" selection-start="415" selection-end="415" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="555">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/it/pupok/task2/interfaceForInverter/IInterfaceForInverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="7" selection-start="429" selection-end="429" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/it/pupok/task2/entityTheArray/EntityTheArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="7" selection-start="653" selection-end="653" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="600">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/it/pupok/task2/interfaceForEntity/IInterfaceForEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="325" selection-end="325" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="405">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/it/pupok/task2/my_exception/MyFirstException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="1" selection-start="278" selection-end="278" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="300">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/it/pupok/task2/main/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="9" selection-start="1588" selection-end="1588" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="855">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/it/pupok/task2/inverterOfArrays/InverterOfArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="39" selection-start="415" selection-end="415" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="555">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/it/pupok/task2/interfaceForInverter/IInterfaceForInverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="7" selection-start="429" selection-end="429" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/it/pupok/task2/entityTheArray/EntityTheArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="7" selection-start="653" selection-end="653" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="600">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/it/pupok/task2/interfaceForEntity/IInterfaceForEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="325" selection-end="325" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="405">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/it/pupok/task2/my_exception/MyFirstException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="1" selection-start="278" selection-end="278" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="300">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/it/pupok/task2/main/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="42" column="49" selection-start="1113" selection-end="1113" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="900">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#Main#0;class#Main#0" expanded="false" />
-            <element signature="e#742#751#0" expanded="true" />
-            <element signature="e#825#833#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/it/pupok/task2/inverterOfArrays/InverterOfArrays.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="22" column="45" selection-start="481" selection-end="481" vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="660">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/it/pupok/task2/entityTheArray/EntityTheArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="27" selection-start="248" selection-end="262" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="630">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#550#551#0" expanded="true" />
-            <element signature="e#592#593#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -866,42 +993,28 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/it/pupok/task2/main/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="41" column="63" selection-start="988" selection-end="988" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="945">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#Main#0;class#Main#0" expanded="false" />
-            <element signature="e#742#751#0" expanded="true" />
-            <element signature="e#825#833#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/it/pupok/task2/inverterOfArrays/InverterOfArrays.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="47" column="51" selection-start="1252" selection-end="1252" vertical-scroll-proportion="0.0" vertical-offset="705" max-vertical-offset="960">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/it/pupok/task2/main/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="40" column="29" selection-start="1016" selection-end="1016" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="1095">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#Main#0;class#Main#0" expanded="false" />
-            <element signature="e#742#751#0" expanded="true" />
-            <element signature="e#825#833#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/it/pupok/task2/inverterOfArrays/InverterOfArrays.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="22" selection-start="119" selection-end="119" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="720">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -915,21 +1028,14 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/it/pupok/task2/main/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="55" column="90" selection-start="1668" selection-end="1668" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1005">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#Main#0;class#Main#0" expanded="false" />
-            <element signature="e#742#751#0" expanded="true" />
-            <element signature="e#825#833#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/it/pupok/task2/inverterOfArrays/InverterOfArrays.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="22" selection-start="119" selection-end="119" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="720">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -943,21 +1049,14 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/it/pupok/task2/main/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="55" column="90" selection-start="1668" selection-end="1668" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1005">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#Main#0;class#Main#0" expanded="false" />
-            <element signature="e#742#751#0" expanded="true" />
-            <element signature="e#825#833#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/it/pupok/task2/inverterOfArrays/InverterOfArrays.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="22" selection-start="119" selection-end="119" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="720">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -971,21 +1070,14 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/it/pupok/task2/main/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="0" selection-start="250" selection-end="250" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="750">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#Main#0;class#Main#0" expanded="false" />
-            <element signature="e#742#751#0" expanded="true" />
-            <element signature="e#825#833#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/it/pupok/task2/inverterOfArrays/InverterOfArrays.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="24" column="25" selection-start="532" selection-end="532" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="600">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -999,21 +1091,14 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/it/pupok/task2/main/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="70" selection-start="276" selection-end="276" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="645">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#Main#0;class#Main#0" expanded="false" />
-            <element signature="e#742#751#0" expanded="true" />
-            <element signature="e#825#833#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/it/pupok/task2/inverterOfArrays/InverterOfArrays.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="7" selection-start="167" selection-end="167" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="525">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1027,39 +1112,15 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/it/pupok/task2/main/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="0" selection-start="306" selection-end="306" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="645">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#Main#0;class#Main#0" expanded="false" />
-            <element signature="e#742#751#0" expanded="true" />
-            <element signature="e#825#833#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/it/pupok/task2/inverterOfArrays/InverterOfArrays.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="7" selection-start="167" selection-end="167" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="525">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MyFirstMavenProject.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="482" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="35" selection-start="987" selection-end="987" vertical-scroll-proportion="0.63114756" vertical-offset="3" max-vertical-offset="735">
           <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/it/pupok/task2/main/package-info.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="429" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/it/pupok/task2/my_exception/package-info.java">
@@ -1074,63 +1135,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/it/pupok/task2/interfaceForEntity/package-info.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="185" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="185" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/it/pupok/task2/inverterOfArrays/package-info.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="40" selection-start="195" selection-end="195" vertical-scroll-proportion="0.21212122" vertical-offset="0" max-vertical-offset="495">
-          <folding />
-        </state>
+        <state line="7" column="40" selection-start="195" selection-end="195" vertical-scroll-proportion="0.21212122" vertical-offset="0" max-vertical-offset="495" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/it/pupok/task2/interfaceForInverter/package-info.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="40" selection-start="100" selection-end="100" vertical-scroll-proportion="0.060606062" vertical-offset="0" max-vertical-offset="495">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/it/pupok/task2/main/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="9" selection-start="1588" selection-end="1588" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="825">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#Main#0;class#Main#0" expanded="false" />
-            <element signature="e#742#751#0" expanded="true" />
-            <element signature="e#825#833#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/it/pupok/task2/inverterOfArrays/InverterOfArrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="39" selection-start="415" selection-end="415" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="555">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
+        <state line="2" column="40" selection-start="100" selection-end="100" vertical-scroll-proportion="0.060606062" vertical-offset="0" max-vertical-offset="495" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/it/pupok/task2/interfaceForInverter/IInterfaceForInverter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="16" column="7" selection-start="429" selection-end="429" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/it/pupok/task2/entityTheArray/EntityTheArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="7" selection-start="653" selection-end="653" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#550#551#0" expanded="true" />
-            <element signature="e#592#593#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1141,10 +1162,59 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/MyFirstMavenProject.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="703" selection-end="703" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="432" selection-end="432" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="750">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/it/pupok/task2/my_exception/MyFirstException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="1" selection-start="278" selection-end="278" vertical-scroll-proportion="0.42424244" vertical-offset="0" max-vertical-offset="495">
+        <state line="14" column="1" selection-start="278" selection-end="278" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/it/pupok/task2/main/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="0" selection-start="385" selection-end="385" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="855">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/it/pupok/task2/inverterOfArrays/InverterOfArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="44" selection-start="460" selection-end="460" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/it/pupok/task2/entityTheArray/EntityTheArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="19" selection-start="718" selection-end="729" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="570">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/InverterOfArraysTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="406" selection-end="406" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="675">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/EntityTheArrayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="35" selection-start="558" selection-end="558" vertical-scroll-proportion="0.5108992" vertical-offset="0" max-vertical-offset="734">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
